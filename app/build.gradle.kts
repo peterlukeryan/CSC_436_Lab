@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.zybooks.graduationrsvp"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.zybooks.graduationrsvp"
